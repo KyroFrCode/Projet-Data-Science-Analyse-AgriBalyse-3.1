@@ -9,7 +9,8 @@ sinon un fichier au format HTML est présent pour la visualisation du notebook u
 
 ```bash
   git clone https://github.com/KyroFrCode/Projet-Data-Science-Analyse-AgriBalyse-3.1.git
-  cd Projet-Data-Science-Analyse-AgriBalyse-3.1/projet/
+  cd Projet-Data-Science-Analyse-AgriBalyse-3.1/
+  pip install -r requirements.txt
 ```
 
 ## Déploiement
@@ -17,6 +18,7 @@ sinon un fichier au format HTML est présent pour la visualisation du notebook u
 Lancer Jupyter NoteBook et ouvrez le fichier projet.ipynb
 
 ```bash
+  cd projet/
   jupyter notebook projet.ipynb
 ```
 
