@@ -8,7 +8,7 @@ Cloner le repo du projet.
 sinon un fichier au format HTML est présent pour la visualisation du notebook uniquement.)
 
 ```bash
-  git clone https://github.com/KyroFrCode/Projet_Demo_Blockchain.git](https://github.com/KyroFrCode/Projet-Data-Science-Analyse-AgriBalyse-3.1.git
+  git clone https://github.com/KyroFrCode/Projet-Data-Science-Analyse-AgriBalyse-3.1.git
   cd Projet-Data-Science-Analyse-AgriBalyse-3.1/projet/
 ```
 
